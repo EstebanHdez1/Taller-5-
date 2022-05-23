@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Taller_4-web_service:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Taller_4-web_service-1.0-SNAPSHOT.war" />
+  </artifact>
+</component>

@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Taller_4-web_service:war exploded">
+    <output-path>$PROJECT_DIR$/target/Taller_4-web_service-1.0-SNAPSHOT</output-path>
+    <root id="root" />
+  </artifact>
+</component>

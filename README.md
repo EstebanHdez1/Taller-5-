@@ -2,6 +2,6 @@
 
 Esteban Hernandez Londoño
 
-Pruebas en el .zip
+Pruebas y Diagrama en el .zip
 
-
+https://www.youtube.com/watch?v=BcGBBzTfw-8
